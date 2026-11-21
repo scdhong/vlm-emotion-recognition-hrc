@@ -31,13 +31,13 @@ Both VLMs beat the CNN baseline (one-way ANOVA, Tukey HSD, p < 0.0001). The abla
 ## How the Study 2 system works
 
 ```mermaid
-flowchart LR
-    T[Temi robot app] -- "HTTP trigger via ngrok" --> S[emotion_api_server.py<br/>Flask]
-    S --> C[USB camera:<br/>record reaction]
-    C --> G1[Gemini 2.5 Flash:<br/>describe emotion]
-    G1 --> G2[Gemini 2.5 Flash:<br/>rewrite apology]
+flowchart TD
+    T[Temi robot app] -- "HTTP trigger via ngrok" --> S[emotion_api_server.py · Flask]
+    S --> C[USB camera records the participant reaction]
+    C --> G1[Gemini 2.5 Flash describes the emotion]
+    G1 --> G2[Gemini 2.5 Flash rewrites the apology]
     G2 --> TTS[Google Cloud TTS]
-    TTS --> SP[Speaker:<br/>play apology]
+    TTS --> SP[Speaker plays the apology]
     S --> L[log.csv]
 ```
 
