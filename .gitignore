@@ -1,0 +1,12 @@
+keys.env
+.env
+*.json
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# videos come from the Bridges dataset, never commit them
+videos/
+recordings/
+*.mp4
+yolov9c.pt
+log.csv
