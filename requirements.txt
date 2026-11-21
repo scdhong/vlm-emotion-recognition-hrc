@@ -1,0 +1,29 @@
+# Study 1: VLM emotion descriptions and CNN baseline
+google-genai
+python-dotenv
+deepface
+ultralytics          # YOLOv9c object detector
+torch
+torchvision
+opencv-python
+tqdm
+# Study 1: text processing and similarity
+pandas
+openpyxl
+nltk
+wordcloud
+sentence-transformers  # BAAI/bge-large-en-v1.5 embeddings
+matplotlib
+# Study 2: live emotion-recognition server used with the Temi robot
+flask
+google-cloud-texttospeech
+pydub
+simpleaudio
+playsound
+# Study 2: statistics and plots
+numpy
+scipy
+statsmodels
+pymc
+arviz
+joypy

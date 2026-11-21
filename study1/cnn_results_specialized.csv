@@ -1,0 +1,37 @@
+video_filename,emotion,objects,total
+P10_0004.mp4,sad,"person, cell phone, bottle","sad person, cell phone, bottle"
+P11_0003.mp4,happy,"person, bottle, chair","happy person, bottle, chair"
+P12_0002.mp4,neutral,"person, chair, dining table, refrigerator","neutral person, chair, dining table, refrigerator"
+P13_0011.mp4,sad,"person, chair","sad person, chair"
+P14_0012.mp4,sad,person,sad person
+P15_0000.mp4,happy,"person, refrigerator","happy person, refrigerator"
+P16_0018.mp4,fear,person,fear person
+P17_0022.mp4,sad,"person, bottle","sad person, bottle"
+P18_0006.mp4,sad,"person, bottle","sad person, bottle"
+P19_0007.mp4,sad,"person, cell phone, bottle, chair","sad person, cell phone, bottle, chair"
+P1_0000.mp4,sad,"person, cell phone, chair","sad person, cell phone, chair"
+P20_0006.mp4,sad,"person, bottle, chair","sad person, bottle, chair"
+P2_0023.mp4,sad,"person, bottle, scissors","sad person, bottle, scissors"
+P3_0019.mp4,sad,"person, chair","sad person, chair"
+P4_0001.mp4,sad,"person, chair, book","sad person, chair, book"
+P5_0001.mp4,fear,person,fear person
+P6_0001.mp4,neutral,person,neutral person
+P7_0000.mp4,sad,"person, dining table","sad person, dining table"
+P8_0001.mp4,sad,"person, chair","sad person, chair"
+P9_0003.mp4,happy,person,happy person
+S2P11_0010.mp4,happy,"person, bottle, chair","happy person, bottle, chair"
+S2P12_0032.mp4,sad,"person, bottle","sad person, bottle"
+S2P13_0027.mp4,neutral,"person, cell phone, scissors","neutral person, cell phone, scissors"
+S2P14_0014.mp4,fear,"person, cell phone, chair","fear person, cell phone, chair"
+S2P15_0014.mp4,neutral,"person, bottle","neutral person, bottle"
+S2P16_0007.mp4,sad,"person, chair","sad person, chair"
+S2P17_0005.mp4,happy,"person, cell phone, bottle, chair","happy person, cell phone, bottle, chair"
+S2P18_0005.mp4,neutral,"person, cell phone, bottle","neutral person, cell phone, bottle"
+S2P19_0000.mp4,fear,"person, cell phone","fear person, cell phone"
+S2P1_0020.mp4,sad,"person, chair","sad person, chair"
+S2P20_0011.mp4,neutral,"cake, person, chair","neutral cake, person, chair"
+S2P2_0034.mp4,sad,"person, cell phone, bottle, chair","sad person, cell phone, bottle, chair"
+S2P3_0021.mp4,sad,"person, cell phone, chair","sad person, cell phone, chair"
+S2P4_0021.mp4,sad,"cake, person, bottle, scissors","sad cake, person, bottle, scissors"
+S2P8_0040.mp4,neutral,"person, scissors, chair","neutral person, scissors, chair"
+S2P9_0004.mp4,fear,person,fear person

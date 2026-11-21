@@ -1,0 +1,37 @@
+Video Filename,Emotion Description,emotion,objects,Emotion Description_processed
+P10_0004.mp4,"neutral, human, robot arm, paper, red basket",neutral,"human, robot arm, paper, red basket",neutral human robot arm paper red basket
+P11_0003.mp4,"neutral, man, bottle, table, robot arm",neutral,"man, bottle, table, robot arm",neutral man bottle table robot arm
+P12_0002.mp4,"neutral, person, tissue box, tissues, gloves",neutral,"person, tissue box, tissues, gloves",neutral person tissue box tissue glove
+P13_0011.mp4,"happy, woman, box of gloves, gloves, robot arm",happy,"woman, box of gloves, gloves, robot arm",happy woman box glove glove robot arm
+P14_0012.mp4,"neutral, human, robot arm, tissue box, gloves",neutral,"human, robot arm, tissue box, gloves",neutral human robot arm tissue box glove
+P15_0000.mp4,"happy, man, robot arm, fabric, basket",happy,"man, robot arm, fabric, basket",happy man robot arm fabric basket
+P16_0018.mp4,"neutral, man, wooden bird feeder, paint tubes, robot arm",neutral,"man, wooden bird feeder, paint tubes, robot arm",neutral man wooden bird feeder paint tube robot arm
+P17_0022.mp4,"neutral, woman, robot, craft item, object from robot",neutral,"woman, robot, craft item, object from robot",neutral woman robot craft item object robot
+P18_0006.mp4,"neutral, woman, wooden pieces, glue bottle, table",neutral,"woman, wooden pieces, glue bottle, table",neutral woman wooden piece glue bottle table
+P19_0007.mp4,"neutral, man, cardboard structure, robot arm, glue bottle",neutral,"man, cardboard structure, robot arm, glue bottle",neutral man cardboard structure robot arm glue bottle
+P1_0000.mp4,"happy, woman, robot arm, red basket, crumpled object",happy,"woman, robot arm, red basket, crumpled object",happy woman robot arm red basket crumpled object
+P20_0006.mp4,"neutral, person, wooden model, glue bottle, desk",neutral,"person, wooden model, glue bottle, desk",neutral person wooden model glue bottle desk
+P2_0023.mp4,"happy, woman, robotic arm, scissors, birdhouse model",happy,"woman, robotic arm, scissors, birdhouse model",happy woman robotic arm scissors birdhouse model
+P3_0019.mp4,"neutral, man, wooden wishing well, paint, red basket",neutral,"man, wooden wishing well, paint, red basket",neutral man wooden wishing well paint red basket
+P4_0001.mp4,"happy, woman, robot, box of gloves, blue glove",happy,"woman, robot, box of gloves, blue glove",happy woman robot box glove blue glove
+P5_0001.mp4,"neutral, man, gloves box, gloves, red basket",neutral,"man, gloves box, gloves, red basket",neutral man glove box glove red basket
+P6_0001.mp4,"happy, man, robot arm, box of gloves, blue gloves",happy,"man, robot arm, box of gloves, blue gloves",happy man robot arm box glove blue glove
+P7_0000.mp4,"happy, man, robotic arm, apron, desk",happy,"man, robotic arm, apron, desk",happy man robotic arm apron desk
+P8_0001.mp4,"neutral, woman, robotic arm, glove box, gloves",neutral,"woman, robotic arm, glove box, gloves",neutral woman robotic arm glove box glove
+P9_0003.mp4,"neutral, human, robot arm, box, red crate",neutral,"human, robot arm, box, red crate",neutral human robot arm box red crate
+S2P11_0010.mp4,"neutral, woman, plastic bag, glass jar, wooden wishing well",neutral,"woman, plastic bag, glass jar, wooden wishing well",neutral woman plastic bag glass jar wooden wishing well
+S2P12_0032.mp4,"happy, woman, robot arm, tablet, gloves",happy,"woman, robot arm, tablet, gloves",happy woman robot arm tablet glove
+S2P13_0027.mp4,"happy, person, paintbrushes, red crate, wooden craft house",happy,"person, paintbrushes, red crate, wooden craft house",happy person paintbrush red crate wooden craft house
+S2P14_0014.mp4,"neutral, woman, bird feeder, box of gloves, robotic arm",neutral,"woman, bird feeder, box of gloves, robotic arm",neutral woman bird feeder box glove robotic arm
+S2P15_0014.mp4,"neutral, woman, craft item, glue bottle, table",neutral,"woman, craft item, glue bottle, table",neutral woman craft item glue bottle table
+S2P16_0007.mp4,"neutral, man, fabric, table, robot arm",neutral,"man, fabric, table, robot arm",neutral man fabric table robot arm
+S2P17_0005.mp4,"neutral, person, gloves, wooden craft, bottle",neutral,"person, gloves, wooden craft, bottle",neutral person glove wooden craft bottle
+S2P18_0005.mp4,"neutral, person, robot arm, table, box",neutral,"person, robot arm, table, box",neutral person robot arm table box
+S2P19_0000.mp4,"happy, man, robot arm, fabric item, table",happy,"man, robot arm, fabric item, table",happy man robot arm fabric item table
+S2P1_0020.mp4,"neutral, human, robot arm, desk, red basket",neutral,"human, robot arm, desk, red basket",neutral human robot arm desk red basket
+S2P20_0011.mp4,"neutral, woman, birdhouse, paintbrush, paint palette",neutral,"woman, birdhouse, paintbrush, paint palette",neutral woman birdhouse paintbrush paint palette
+S2P2_0034.mp4,"neutral, person, wooden birdhouse, glue bottle, gloves",neutral,"person, wooden birdhouse, glue bottle, gloves",neutral person wooden birdhouse glue bottle glove
+S2P3_0021.mp4,"angry, man, red container, wooden birdhouse, papers",angry,"man, red container, wooden birdhouse, papers",angry man red container wooden birdhouse paper
+S2P4_0021.mp4,"neutral, man, birb house, paintbrush, table",neutral,"man, birb house, paintbrush, table",neutral man birb house paintbrush table
+S2P8_0040.mp4,"neutral, person, craft project, gloves, paper",neutral,"person, craft project, gloves, paper",neutral person craft project glove paper
+S2P9_0004.mp4,"neutral, man, wooden birdhouse model, paint tube, paint palette",neutral,"man, wooden birdhouse model, paint tube, paint palette",neutral man wooden birdhouse model paint tube paint palette
